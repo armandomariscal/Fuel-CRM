@@ -6,6 +6,3 @@
 	<script language="javascript">location.href = "../index.php";</script>
 </head>
 <body>
-	
-</body>
-</html>
